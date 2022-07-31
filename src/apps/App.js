@@ -1,9 +1,12 @@
 import './App.css';
+import Jsx from "../components/01-jsx";
 
 function App() {
+
   return (
     <div>
-      <h1>Hello</h1>
+        <p>Hello</p>
+        <Jsx/>
     </div>
   );
 }
